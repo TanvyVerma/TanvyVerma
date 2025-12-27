@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Hi,%20I%20am%20Tanvy%20Verma&fontSize=40&fontColor=ffffff)
+
 🎓 Computer Science Undergraduate  
 💻 Passionate about problem-solving & building real-world solutions  
 🚀 Exploring backend development & AI/ML projects  
