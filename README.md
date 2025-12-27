@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Hi,%20I%20am%20Tanvy%20Verma&fontSize=40&fontColor=ffffff)
-
 🎓 Computer Science Undergraduate  
 💻 Passionate about problem-solving & building real-world solutions  
 🚀 Exploring backend development & AI/ML projects  
@@ -16,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=TanvyVerma&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TanvyVerma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvyVerma&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanvyVerma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
